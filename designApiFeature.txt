@@ -1,0 +1,5 @@
+Api weather in city thailand
+
+-primary key of city 
+-name city 
+-weather > hot rain
